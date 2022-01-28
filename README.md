@@ -11,7 +11,7 @@ It got me thinking, why not design my own direct drive extruder using parts that
     - parts have to be printed flat as much as possible. 
     - support should be minimal with very little cleaning/post work. 
     - use basic geometry to optimise print time and path. 
-2.	All parts can be printed in under 4hrs @ 0.4mm nozzle, 50mm/s speed, 0.2mm layer height. 
+2.	Individual parts can be printed in within 1-2hrs @ 0.4mm nozzle, 50mm/s speed, 0.2mm layer height. 
 3.	Use existing parts that are easily sourced; 
     - BMG / clone gears 
     - M3 screws, etc
