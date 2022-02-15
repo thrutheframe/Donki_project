@@ -16,16 +16,15 @@ It got me thinking, why not design my own direct drive extruder using parts that
     - BMG / clone gears 
     - M3 screws, etc
 4.	Easy maintenance;
-    - quick access to the gears and clean with a brush
+    - quick access to the gears and clean with a brush.
     - clog or jam can be qiuckly resolved. 
+    - open area for the motor to cool better
 5. Allow an ecosystem of mounts, sensors, probe and fanduct to be easily design to work with it.
+
 \
-\
-There are 2 versions of Donki.
+The Donki comes in two versions:
 1. The conventional flat mount, and 
 2. The vertical mount with the clip and lock hotend bracket. 
-
-
 
 In addition, Donki will also have its own Tiki4 mount system. It can be used on stock V-wheel carriage of the CR10/Ender printers or linear rails carriage. 
 
